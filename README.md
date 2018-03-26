@@ -6,7 +6,7 @@ Portions Copyright (c) 2012-2013 The Cryptonote developers.
 ## Development resources
 
 - Web: [https://MapleCoins.org](https://MapleCoins.org)
-- BitCoinTalk ANN: [https://bitcointalk.com/](https://bitcointalk/)
+- BitCoinTalk ANN: [https://bitcointalk.org/index.php?topic=3197995.0](https://bitcointalk.org/)
 - Twitter: [https://twitter.com/Maple_Coin](https://twitter.com/Maple_Coin)
 - Discord: [https://discord.gg/fW9bNQE](https://discord.gg/fW9bNQE)
 - GitHub: [https://github.com/Maple-Coin](https://github.com/Maple-Coin)
